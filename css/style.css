@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.heading{
+    color: #da4949;
+    text-transform: uppercase;
+}
+.heading1.active{
+    color: #000000;
+}
+.heading2.active{
+    color: rgb(211, 248, 0);
+}
+.heading3.active{
+    color: rgb(174, 0, 255);
+}
+.heading4.active{
+    color: rgb(255, 231, 17);
+}
